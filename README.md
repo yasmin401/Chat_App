@@ -18,4 +18,4 @@ Users can register, log in, and chat instantly with a clean UI and custom chat b
 Flutter
 Firebase Authentication
 Cloud Firestore
-<img width="341" height="743" alt="image" src="https://github.com/user-attachments/assets/c3fcffca-177c-4066-947f-ba4e5f715395" />
+
